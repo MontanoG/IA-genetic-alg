@@ -5,3 +5,7 @@ Autores:
 - Jesse Alonso Galán Tirado
 - Guillermo Daniel Montaño Gamarra
 - Jason Luis Valera Espinoza
+
+<p align="center">
+  <img src="sim.gif">
+</p>
